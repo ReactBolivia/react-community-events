@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140327880777",
+    "firebase_url": "https://wadafood-df4f5.firebaseio.com",
+    "project_id": "wadafood-df4f5",
+    "storage_bucket": "wadafood-df4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140327880777:android:cbe9b17da8cc15fb",
+        "android_client_info": {
+          "package_name": "com.wadafood.wadafood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140327880777-62ccvp48l6lsvlgqurl5v07pv1qvfspd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMizwMn-WXGTzhCndb3r6WTYniI1nB7fA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
